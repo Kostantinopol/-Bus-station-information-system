@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Algorithms&lt;T, T1&gt;">
+    <Position X="15.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithms.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Key">
+    <Position X="15.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAgAAAQAAAAAAQAAEAAEAAAAAAAgQAAABgA=</HashCode>
+      <FileName>Key.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DateTime">
+    <Position X="17.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAABAAAAAAAAAAQAAEAQAIAQQAAAgAEAEBAA=</HashCode>
+      <FileName>DateTime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exception">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAA=</HashCode>
+      <FileName>Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadInput">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BadFile">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excursion">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAAAAAAIAAAAQAAEAIAAAAAAIAAEAAABAA=</HashCode>
+      <FileName>Excursion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextFile&lt;T&gt;">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAgAgAEAJAEBAAAAAAAAAAAoAEICAAAAAADEAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List&lt;T, T1&gt;">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="List&lt;T, T1&gt;::Iterator">
+        <TypeIdentifier>
+          <NewMemberFileName>List.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEIgAAACAAARAAAAgAAAAAAwAAEAgAAEAAAAAABEAAI=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Route">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAIIAAAwAAAAAIEAAAQAAEDIQAIQAAEAgAAAABAA=</HashCode>
+      <FileName>Route.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tour">
+    <Position X="10.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAEAIIAAAAAAAEAAAABAA=</HashCode>
+      <FileName>Tour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trip">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAEAAAAAAAAAIAAQACEAIAAABAAAAgAAAABAA=</HashCode>
+      <FileName>Trip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="listNode&lt;T&gt;">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABAAAIAAAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TeamStack">
+    <Position X="14" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAgBAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>TeamStack.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
